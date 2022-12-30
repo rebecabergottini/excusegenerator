@@ -13,7 +13,7 @@ window.onload = function() {
     "right in time",
     "when I finished",
     "during my lunch",
-    "while I was praying"
+    "while I was praying",
   ];
   let array4 = Math.floor(Math.random() * who.length);
   let array5 = Math.floor(Math.random() * what.length);
